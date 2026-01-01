@@ -24,3 +24,7 @@ A simple memory / guessing game built with React as my **first React project**.
 - Conditional rendering
 - Component composition
 - Handling async logic with `setTimeout`
+
+- ## 📸 Screenshot
+
+![Memory Game Screenshot](./screenshots/game.png)
