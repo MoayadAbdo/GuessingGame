@@ -1,8 +1,8 @@
-# 🧠 Memory Card Game (React)
+#  Memory Card Game (React)
 
 A simple memory / guessing game built with React as my **first React project**.
 
-## 🚀 Features
+##  Features
 - Card flip animation
 - Move counter
 - Score tracking
@@ -11,13 +11,13 @@ A simple memory / guessing game built with React as my **first React project**.
 - Clean component structure
 - Custom game logic hook
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - React
 - JavaScript (ES6)
 - Vite
 - CSS
 
-## 🧩 What I Learned
+##  What I Learned
 - React hooks (`useState`, `useEffect`)
 - Custom hooks
 - State management
